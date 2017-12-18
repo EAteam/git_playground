@@ -2,7 +2,7 @@
 
 ## For learning the git command line
 
-** This is bold: **  
+**This is bold:**  
 I love source control
 > #inlcude <stdio.h>
 
